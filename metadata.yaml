@@ -1,0 +1,33 @@
+_repo: The-Russian-Story-Book-Containing-tales-from-the-song-cycles-of-Kiev-and-Novgorod-and-other-e__48605
+creator:
+  authors:
+  - agent_name: Wilson, Richard
+    alias: Wilson, Dick
+    birthdate: 1920
+    deathdate: 1987
+    gutenberg_agent_id: '34343'
+    url: http://www.gutenberg.org/2009/agents/34343
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
+  - agent_name: Papé, Frank Cheyne
+    aliases:
+    - Papé, Frank C.
+    - Pape, Frank Cheyne
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '39182'
+    url: http://www.gutenberg.org/2009/agents/39182
+description: ''
+gutenberg_issued: '2015-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Russian Story Book
+
+  Containing tales from the song-cycles of Kiev and Novgorod
+
+  and other early sources'
+url: http://www.gutenberg.org/ebooks/48605
