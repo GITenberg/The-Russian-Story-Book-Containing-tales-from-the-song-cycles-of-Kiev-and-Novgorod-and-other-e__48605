@@ -1,4 +1,8 @@
 _repo: The-Russian-Story-Book-Containing-tales-from-the-song-cycles-of-Kiev-and-Novgorod-and-other-e__48605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48605-h/images/backcover.jpg
 creator:
   authors:
   - agent_name: Wilson, Richard
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '39182'
     url: http://www.gutenberg.org/2009/agents/39182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48605#The-Russian-Story-Book-Containing-tales-from-the-song-cycles-of-Kiev-and-Novgorod-and-other-e_
 gutenberg_issued: '2015-03-29'
 gutenberg_type: Text
 identifiers:
